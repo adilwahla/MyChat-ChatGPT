@@ -7,4 +7,7 @@ Build a Chat App with NEW ChatGPT API | Full stack, React, Redux Toolkit, Node, 
 # Check out ScreenShots 
 ![Vite-React](https://github.com/adilwahla/MyChat-ChatGPT/assets/48839911/46ce83b5-c469-4ecb-b25d-e38df5ae8fef)
 
+![Screenshot (78)](https://github.com/adilwahla/MyChat-ChatGPT/assets/48839911/5bf88bf1-a43c-4e08-a85d-4c085ee55b4f)
+
+
 
