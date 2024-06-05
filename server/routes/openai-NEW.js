@@ -18,7 +18,7 @@
 //   try {
 //     const { text, activeChatId } = req.body;
 
-//     const response = await openai.createChatCompletion({
+//     const response = await openai.chat.completions.create({
 //       model: "gpt-3.5-turbo",
 //       messages: [
 //         { role: "system", content: "You are a helpful assistant." }, // this represents the bot and what role they will assume
